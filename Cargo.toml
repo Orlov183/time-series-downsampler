@@ -1,0 +1,8 @@
+[package]
+name = "time-series-downsampler"
+version = "0.1.0"
+edition = "2021"
+description = ""
+license = "BSD-3-Clause"
+
+[dependencies]
